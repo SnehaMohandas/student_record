@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377919617178",
+    "project_id": "student-record-3300e",
+    "storage_bucket": "student-record-3300e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377919617178:android:d924bd5fdd38861b8c4723",
+        "android_client_info": {
+          "package_name": "com.example.student_record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377919617178-na38501scsu4nedi6c5j4ane1itlnud2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_H87t9awpbMa16hyvRuOMqgseyZkZH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377919617178-na38501scsu4nedi6c5j4ane1itlnud2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
